@@ -170,31 +170,31 @@
 ------------------------------------*/
 .btn-default {
   background-color: transparent;
-  border-color: #d70000;
-  color: #d70000;
+  border-color: #7f9175;
+  color: #7f9175;
 }
 .btn-default:hover,
 .btn-default:focus,
 .btn-default:active,
 .btn-default.active {
-  background-color: #d70000;
-  border-color: #d70000;
+  background-color: #7f9175;
+  border-color: #7f9175;
   color: #ffffff;
 }
 .solid.btn-default {
-  border-color: #d70000;
+  border-color: #7f9175;
   color: #ffffff;
 }
 .solid.btn-default:not([class*="bg-glass-"]) {
-  background-color: #d70000;
+  background-color: #7f9175;
 }
 .solid.btn-default:hover,
 .solid.btn-default:focus,
 .solid.btn-default:active,
 .solid.btn-default.active {
   background-color: transparent;
-  border-color: #d70000;
-  color: #d70000;
+  border-color: #7f9175;
+  color: #7f9175;
 }
 .btn-primary {
   background-color: transparent;
@@ -338,8 +338,8 @@
 }
 .hov-btn-default:hover,
 .solid.hov-btn-default:hover {
-  background-color: #d70000;
-  border-color: #d70000;
+  background-color: #7f9175;
+  border-color: #7f9175;
   color: #ffffff;
 }
 .hov-btn-primary:hover,
@@ -380,7 +380,7 @@
 .bdr-default.row-sep > [class*="flex-col-"],
 .bdr-default.form-control,
 .bdr-default {
-  border-color: #d70000;
+  border-color: #7f9175;
 }
 .bdr-primary,
 .bdr-primary.row-bdr,
@@ -431,7 +431,7 @@
 .hov-bdr-default:hover.form-control,
 .hov-bdr-default:focus.form-control,
 .hov-bdr-default:hover {
-  border-color: #d70000;
+  border-color: #7f9175;
 }
 .hov-bdr-primary:hover,
 .hov-bdr-primary:hover.row-bdr,
@@ -777,7 +777,7 @@ h6,
 .txt-default,
 .typo-light .txt-default,
 .txt-default:hover {
-  color: #d70000;
+  color: #7f9175;
 }
 .txt-primary,
 .typo-light .txt-primary,
@@ -810,7 +810,7 @@ h6,
 /* TEXT HOVER COLORS
 ------------------------------------*/
 .hov-txt-default:hover {
-  color: #d70000;
+  color: #7f9175;
 }
 .hov-txt-primary:hover {
   color: #d2056d;
@@ -831,7 +831,7 @@ h6,
 ------------------------------------*/
 .link-default,
 a.link-default {
-  color: #d70000;
+  color: #7f9175;
 }
 .link-primary,
 a.link-primary {
@@ -856,7 +856,7 @@ a.link-white {
 /* BACKGROUND COLORS  
 ------------------------------------*/
 .bg-default {
-  background-color: #d70000;
+  background-color: #7f9175;
 }
 .bg-primary {
   background-color: #d2056d;
@@ -879,7 +879,7 @@ a.link-white {
 /* BACKGROUND HOVER COLORS  
 ------------------------------------*/
 .hov-bg-default:hover {
-  background-color: #d70000;
+  background-color: #7f9175;
 }
 .hov-bg-primary:hover {
   background-color: #d2056d;
@@ -975,16 +975,16 @@ a.link-white {
   }
 }
 .tab-style1 .tb-list > li.active.default {
-  background-color: #d70000;
+  background-color: #7f9175;
 }
 .tab-style1 .tb-list > li.active.default {
   color: #ffffff;
 }
 .tab-style1 .tb-list:not([class*="bdr-default"]):not([class*="bdr-primary"]):not([class*="bdr-secondary"]):not([class*="bdr-white"]):not([class*="bdr-dark"]) {
-  border-color: #d70000;
+  border-color: #7f9175;
 }
 .tab-style1 .tb-content.default {
-  background-color: #d70000;
+  background-color: #7f9175;
 }
 /*.tab-style1 {
 		.@{name}.tb-list:not([class*="bg-"]):not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) {
@@ -1002,22 +1002,22 @@ a.link-white {
 		border-left-color: @color;
 	}*/
 .tab-style2 .default.tb-list:not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) > li.active:not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) {
-  border-color: #d70000;
+  border-color: #7f9175;
   color: #ffffff;
 }
 .tab-style2.side-tab .default.tb-list > li.active {
-  border-color: #d70000;
+  border-color: #7f9175;
   color: #ffffff;
 }
 .tab-style3 .default.tb-list:not([class*="bg-"]):not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) {
-  background-color: #d70000;
+  background-color: #7f9175;
 }
 .tab-style3 .default.tb-list:not([class*="bg-"]):not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) > li.active:not([class*="bg-"]):not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) {
   color: #ffffff;
 }
 .tab-style4 .default.tb-list > li.active:not([class*="bg-"]):not([class*="txt-default"]):not([class*="txt-primary"]):not([class*="txt-secondary"]):not([class*="txt-white"]) {
-  background-color: #d70000;
-  border-color: #d70000;
+  background-color: #7f9175;
+  border-color: #7f9175;
   color: #ffffff;
 }
 .tab-style1 .tb-list > li.active.primary {
