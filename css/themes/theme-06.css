@@ -1,22 +1,4 @@
-/**
-***************************************************************
-* AUTHOR : CKavArt
-* PROJECT : Qbix - HTML Responsive Multi-Purpose Template
-* Purchase : https://themeforest.net/user/c-kav 
-*
-* Copyright 2015-2016 CKavArt
-* NOTE : This file licensed to CKavArt - https://themeforest.net/user/c-kav and it is strictly prohibited to copy or reuse it.
-***************************************************************
-*/
-/**
-*****************************************************************
-* This file is licensed to CKavArt.
-* It's not allowed to copy or reuse it Copyright CKavArt 2017-2018
-* CKavArt : http://ckavart.com/
-*****************************************************************
-*/
-/* CORE VARIABLE AND MIXINS
-------------------------------------*/
+
 .v-align {
   transform: translateY(-50%);
   top: 50%;
