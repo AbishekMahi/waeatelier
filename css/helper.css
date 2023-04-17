@@ -4169,7 +4169,7 @@ form.frm-gt200 .form-control {
   width: 3.125rem;
 }
 .px-w60 {
-  width: 3.75rem;
+  width: 6.75rem;
 }
 .px-w70 {
   width: 4.375rem;
@@ -6443,7 +6443,7 @@ a,
     width: 50px;
   }
   [data-ckav-md*="px-w60"] {
-    width: 60px;
+    width: 90px;
   }
   [data-ckav-md*="px-w80"] {
     width: 80px;
